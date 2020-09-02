@@ -1,8 +1,7 @@
 # Analysis_and_Visualizations - Suicide Rates
 
 Our aim is to explore the data of suicide rates.
-
-Lets start using the above techniques on a practical dataset. We will be using data about suicide rates from 1985 to 2026.
+We will be using data about suicide rates from 1985 to 2026.
 
 ## Data Source: 
 https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
